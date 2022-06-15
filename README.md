@@ -67,7 +67,7 @@ Ahora, abre el archivo y echa un vistazo al código de inicio proporcionado all�
 Abra la página `index.html` en el navegador. Observe cómo los pasos de cocción se muestran fuera de orden.
 
 <details>
-  <summary><b>Captura de pantalla</b></summary></details>
+  <summary><b>Captura de pantalla</b></summary>
 
 ![Steps out of sync](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-promise-me-dinner-out-of-sync.gif)
 
@@ -93,7 +93,7 @@ getInstruction('mashedPotatoes', 0, (step0) => {
 Después del último paso, debe mostrar un adicional `<li>` con el texto: `Mashed potatoes are ready!`
 
 <details>
-  <summary><b>Resultado esperado</b></summary></details>
+  <summary><b>Resultado esperado</b></summary>
 
 ![Iteration 1 expected result](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-promise-me-dinner-1-result.gif)
 
@@ -118,7 +118,7 @@ obtainInstruction('steak', 0)
 Después del último paso, debes mostrar un adicional `<li>` con el texto: `Steak is ready!`.
 
 <details>
-  <summary><b>Resultado esperado</b></summary></details>
+  <summary><b>Resultado esperado</b></summary>
 
 ![Iteration 2 expected result](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-promise-me-dinner-2-result.gif)
 
@@ -137,7 +137,7 @@ async function makeBroccoli() {
 Después del último paso, deberías mostrar un adicional `<li>` con el texto: `Broccoli is ready!`.
 
 <details>
-  <summary><b>Resultado esperado</b></summary></details>
+  <summary><b>Resultado esperado</b></summary>
 
 ![Iteration 3 expected result](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-promise-me-dinner-3-result.gif)
 
@@ -148,7 +148,7 @@ Después del último paso, deberías mostrar un adicional `<li>` con el texto: `
 Cuando la comida específica esté lista para ser servida (todos los pasos están listados), elimina el atributo `hidden` del elemento `<img />` que representa la comida, para que se muestre la imagen.
 
 <details>
-  <summary><b>Resultado esperado</b></summary></details>
+  <summary><b>Resultado esperado</b></summary>
 
 ![Bonus Iteration 1 expected result](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-promise-me-dinner-bonus-1-result.gif)
 
